@@ -7069,7 +7069,7 @@ Label4: do {
     }
 } while (false);
 var fmtRes_1258291996 = [mnewString(0)];
-fmtRes_1258291996[0].push.apply(fmtRes_1258291996[0], makeNimstrLit("Sigil 1.7 Character Sheet - Generated at [GITHUB PAGES URL HERE]\x0A\x0APlayer:\x0ACharacter Name: "));;
+fmtRes_1258291996[0].push.apply(fmtRes_1258291996[0], makeNimstrLit("Sigil 1.7 Character Sheet - Generated at https://vitorgoatman.github.io/sigil-character-generator/\x0A\x0APlayer:\x0ACharacter Name: "));;
 formatValue_1291845792(fmtRes_1258291996, 0, player_1258291876[0].name, []);
 fmtRes_1258291996[0].push.apply(fmtRes_1258291996[0], makeNimstrLit("\x0AAge: "));;
 formatValue_1258292001(fmtRes_1258291996, 0, age_1258291303, []);
