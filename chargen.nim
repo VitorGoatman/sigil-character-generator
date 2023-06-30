@@ -83,7 +83,7 @@ while contactpts > 0:
     ("Aptitude", 30+(inf*5)), ("Influence", 30+(apt*5)), usefulness())
 
 var md = &"""
-Sigil 1.7 Character Sheet - Generated at [GITHUB PAGES URL HERE]
+Sigil 1.7 Character Sheet - Generated at https://vitorgoatman.github.io/sigil-character-generator/
 
 Player:
 Character Name: {player.name}
