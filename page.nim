@@ -124,6 +124,7 @@ proc makePage(): VNode =
       button(class = "w3-button w3-theme-action", onclick = () =>
              download(player.name & " - Sigil 1.7 Sheet.txt", getMd())):
         text "Download this character!"
+      p(class = "w3-small"): text "Or refresh the page to get a new one!"
 
     tdiv(class = "w3-row"):
       tdiv(class = "w3-half"):
